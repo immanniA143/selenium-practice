@@ -1,0 +1,72 @@
+2019-12-09 08:56:54 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 08:57:01 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 08:57:24 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 08:57:24 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 08:57:25 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 08:57:27 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 13:05:10 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 13:05:19 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 13:05:23 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 13:05:23 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 13:05:24 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 13:05:27 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 13:05:48 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 13:06:31 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 13:06:33 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 13:06:33 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 13:06:34 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 13:06:35 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 13:07:08 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 13:08:28 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 13:08:37 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 13:08:38 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 13:08:38 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 13:08:40 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 16:07:40 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 16:08:57 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 16:09:01 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 16:09:02 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 16:09:02 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 16:09:04 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 16:10:02 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 16:11:11 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 16:11:15 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 16:11:15 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 16:11:15 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 16:11:17 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 16:11:47 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 16:11:54 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 16:11:58 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 16:11:58 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 16:11:58 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 16:12:00 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 16:12:17 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 16:13:21 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 16:13:24 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 16:13:24 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 16:13:25 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 16:13:27 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 16:13:40 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 16:14:45 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 16:14:49 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 16:14:49 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 16:14:49 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 16:14:51 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-09 16:16:12 INFO  BrowserLaunch:9 - initializing the properties files.....
+2019-12-09 16:16:19 INFO  BrowserLaunch:11 - launched the browser :- firefox
+2019-12-09 16:16:22 INFO  BrowserLaunch:13 - navigating to the URL :-https://www.amazon.in/
+2019-12-09 16:16:22 INFO  BrowserLaunch:15 - seleted the item :- Books By using the locator :- searchDropdownBox
+2019-12-09 16:16:22 INFO  BrowserLaunch:17 - entered the text into the textbox :- HarryPotter By using the locator :- #twotabsearchtextbox
+2019-12-09 16:16:25 INFO  BrowserLaunch:19 - clicked on the SearchButton using the locator :- //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2019-12-18 12:01:11 INFO  Practice:17 - selecting the required field in the search box
+2019-12-18 12:01:11 INFO  Practice:19 - typeing the required on the search box
+2019-12-18 12:01:14 INFO  Practice:21 - clicks on the search button
+2019-12-18 12:03:05 INFO  Practice:17 - selecting the required field in the search box
+2019-12-18 12:03:06 INFO  Practice:19 - typeing the required on the search box
+2019-12-18 12:03:09 INFO  Practice:21 - clicks on the search button
+2019-12-18 14:22:10 INFO  Practice:17 - selecting the required field in the search box
+2019-12-18 14:22:10 INFO  Practice:19 - typeing the required on the search box
+2019-12-18 14:22:13 INFO  Practice:21 - clicks on the search button
+2019-12-18 14:24:20 INFO  Practice:17 - selecting the required field in the search box
+2019-12-18 14:24:20 INFO  Practice:19 - typeing the required on the search box
+2019-12-18 14:24:22 INFO  Practice:21 - clicks on the search button

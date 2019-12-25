@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="124" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+    <groups>
+    </groups>
+    <test name="Testgroup" duration-ms="124" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test1">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test1@369f73a2]" name="f" duration-ms="9" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.newproject.selenium.com.newproject.selenium.first.Test1 -->
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="beforeSuite" is-config="true" duration-ms="22" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="f" duration-ms="2" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test2@5a8e6209]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.newproject.selenium.com.newproject.selenium.first.Test2 -->
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test3">
+        <test-method status="PASS" signature="f()[pri:1, instance:com.newproject.selenium.com.newproject.selenium.first.Test3@731a74c]" name="f" duration-ms="6" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="z()[pri:2, instance:com.newproject.selenium.com.newproject.selenium.first.Test3@731a74c]" name="z" duration-ms="5" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- z -->
+        <test-method status="PASS" signature="b()[pri:3, instance:com.newproject.selenium.com.newproject.selenium.first.Test3@731a74c]" name="b" duration-ms="8" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- com.newproject.selenium.com.newproject.selenium.first.Test3 -->
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test4">
+        <test-method status="PASS" signature="a()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test4@4b4523f8]" name="a" is-config="true" duration-ms="1" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test4@4b4523f8]" name="f" duration-ms="8" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="c()[pri:0, instance:com.newproject.selenium.com.newproject.selenium.first.Test4@4b4523f8]" name="c" is-config="true" duration-ms="1" started-at="2019-12-24T13:53:57 IST" finished-at="2019-12-24T13:53:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- com.newproject.selenium.com.newproject.selenium.first.Test4 -->
+    </test> <!-- Testgroup -->
+  </suite> <!-- Suite1 -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+  <test thread-count="5" name="Testgroup">
+    <classes>
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test4"/>
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test2"/>
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test3"/>
+      <class name="com.newproject.selenium.com.newproject.selenium.first.Test1"/>
+    </classes>
+  </test> <!-- Testgroup -->
+</suite> <!-- Suite1 -->
